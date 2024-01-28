@@ -5,4 +5,4 @@ In this case i used typography to build a nutrition label webpage.
 - learning how to style text, <br>
 - adjust line height.<br> 
 - Position the text using CSS.<br>
-- <img src="https://github.com/Saraiin/FC-projects/blob/main/nutrition_label/nutrition.png" alt="nutrition label">
+ <img src="https://github.com/Saraiin/FC-projects/blob/main/nutrition_label/nutrition.png" alt="nutrition label">
